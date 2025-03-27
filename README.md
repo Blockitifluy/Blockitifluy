@@ -1,11 +1,12 @@
 ### Hello there, I'm Blockitifluy 👋
 
-I am a full-stack development.
+Former web developer 🕸️, now game dev 🎮.
 
-- 🌱 Learning Rust
-- ❤️ Using Python, and Go
-- 💬 Ask me anything about Go or Python
-- 📫 How to Reach me: Blockitifluy@gmail.com
-- 😄 Pronouns: He/Him
+Programming in:
 
-Usually, I love backend development, just hate javascript (wish it was better and not made in a day).
+- C# #️⃣,
+- Python 🐍,
+- Lua/Luau 🌑🇧🇷,
+- JavaScript, and TypeScript 🌋
+
+I am confident in my ability as a programmer, and like to work independently.
